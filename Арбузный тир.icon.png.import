@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dnti5lfi2cahd"
-path="res://.godot/imported/Арбузный тир.icon.png-c6ec114eb1f301864975ee569066613a.ctex"
+path="res://.godot/imported/Арбузный тир.icon.png-8fb21670cb3f69e2af436b08623989b0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://экспорт/Арбузный тир.icon.png"
-dest_files=["res://.godot/imported/Арбузный тир.icon.png-c6ec114eb1f301864975ee569066613a.ctex"]
+source_file="res://арбузный тир/Арбузный тир.icon.png"
+dest_files=["res://.godot/imported/Арбузный тир.icon.png-8fb21670cb3f69e2af436b08623989b0.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ddj8gcpfnm7ji"
-path="res://.godot/imported/Арбузный тир.apple-touch-icon.png-261de977beac86b334818db3ee491490.ctex"
+path="res://.godot/imported/Арбузный тир.apple-touch-icon.png-a2b7d539623af1524e725c98c548d2a0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://экспорт/Арбузный тир.apple-touch-icon.png"
-dest_files=["res://.godot/imported/Арбузный тир.apple-touch-icon.png-261de977beac86b334818db3ee491490.ctex"]
+source_file="res://арбузный тир/Арбузный тир.apple-touch-icon.png"
+dest_files=["res://.godot/imported/Арбузный тир.apple-touch-icon.png-a2b7d539623af1524e725c98c548d2a0.ctex"]
 
 [params]
 
